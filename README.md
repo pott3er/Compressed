@@ -1,0 +1,1 @@
+Terminus is a decentralized digital inheritance protocol — essentially a "crypto will" that automatically transfers your digital assets and private documents to your chosen beneficiary when you die, without needing lawyers, probate courts, or your beneficiary to understand crypto.
